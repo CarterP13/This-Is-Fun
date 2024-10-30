@@ -3,7 +3,11 @@ img {
 }
 body {
     text-align: center;
-    font-family: 'Arial';
-    background: lightblue;
-    color: purple;
+    font-family: "Lucida Console", "Courier New", monospace;
+    background: yellow;
+    color: #B026FF;
+    border-style:groove dotted solid double;
+    border-color:#39FF14;
+    border-width: 15px;
+    border-radius: 50px;
 }
