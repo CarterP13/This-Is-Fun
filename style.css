@@ -1,13 +1,12 @@
 img {
     width: 200px;
 }
-body {
+header {
     text-align: center;
-    font-family: "Lucida Console", "Courier New", monospace;
-    background: #8cc6ed;
+    background: #bde6ff;
     color: black;
     border-style: solid;
     border-color: #dceffc;
-    border-width: 15px;
+    border-width: 5px;
     border-radius: 50px;
 }
