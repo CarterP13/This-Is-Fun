@@ -4,10 +4,10 @@ img {
 body {
     text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
-    background: yellow;
-    color: #B026FF;
-    border-style:groove dotted solid double;
-    border-color:#39FF14;
+    background: #8cc6ed;
+    color: black;
+    border-style: solid;
+    border-color: #dceffc;
     border-width: 15px;
     border-radius: 50px;
 }
